@@ -1,0 +1,26 @@
+{
+  "name": "static_server-npm",
+  "version": "1.0.0",
+  "description": "This is a static server, yay!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/David55100/static_server.git"
+  },
+  "keywords": [],
+  "author": "David",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/David55100/static_server/issues"
+  },
+  "homepage": "https://github.com/David55100/static_server#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+    "nodemon": "^1.18.9",
+    "save": "^2.3.3",
+    "save-dev": "^2.0.0"
+  }
+}
